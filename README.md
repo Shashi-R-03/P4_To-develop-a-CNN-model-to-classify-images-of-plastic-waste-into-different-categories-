@@ -5,4 +5,4 @@ This project aims to classify images of plastic waste into different categories 
 
 The dataset used for this project is the "Waste Classification" dataset, which can be downloaded from [Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data). 
 
-Once downloaded, place the dataset in the `DATASET` directory as follows:
+
